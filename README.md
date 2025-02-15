@@ -104,7 +104,7 @@ y_test_prob = best_model.predict_proba(x_test)[:, 1]
 1. Clone the repository and navigate to the project folder.
    ```sh
    git clone https://github.com/rk0802p/cc-fraud-detection.git
-   cd credit-card-fraud-detection
+   cd cc-fraud-detection
    ```
 
 2. Run the Jupyter Notebook to process data and train models.

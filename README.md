@@ -99,17 +99,12 @@ y_test_prob = best_model.predict_proba(x_test)[:, 1]
   - `matplotlib`, `seaborn` for visualization
   - `scikit-learn`, `xgboost` for machine learning
 
-## How to Use
+## How to Clone 
 
 1. Clone the repository and navigate to the project folder.
    ```sh
    git clone https://github.com/rk0802p/cc-fraud-detection.git
    cd cc-fraud-detection
-   ```
-
-2. Run the Jupyter Notebook to process data and train models.
-   ```sh
-   jupyter notebook
    ```
 
 ## Requirements
